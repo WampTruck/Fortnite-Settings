@@ -16,8 +16,8 @@ Psycho Visual Tuning: disabled
 Max B-frames: 2
 
 ## Audio
-Desktop Audio: CABLE IN
-Set level in mixer to: -1.5
+Desktop Audio: CABLE IN  
+Set level in mixer to: -1.5  
 
 ## Video
 Output Resolution: 1920x1080  
