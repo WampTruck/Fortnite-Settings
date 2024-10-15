@@ -9,7 +9,7 @@ Bitrate: 10000 Kbps (variable due to their connection)
 Keyframe interval: 1s  
 Preset: P6 Slower  
 Tuning: High Quality  
-Multipass Mode:  Two Passes (Full Resolution)
+Multipass Mode:  Two Passes (Full Resolution)  
 Profile: high  
 Look-ahead: disabled
 Psycho Visual Tuning: disabled
